@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survivalhistory:sweetberry_jam"
+    },
+    {
+      "item": "survivalhistory:sliced_bread"
+    },
+    {
+      "item": "survivalhistory:sliced_bread"
+    }
+  ],
+  "result": {
+    "item": "survivalhistory:sweetberry_jam_sandwich"
+  }
+}

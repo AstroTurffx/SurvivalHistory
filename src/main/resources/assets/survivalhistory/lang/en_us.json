@@ -1,5 +1,19 @@
 {
+  "item.survivalhistory.jar" : "Jar",
+
   "item.survivalhistory.sliced_bread" : "Sliced Bread",
+  "item.survivalhistory.strawberry" : "Strawberry",
+  "item.survivalhistory.strawberry_jam" : "Strawberry Jam",
+  "item.survivalhistory.strawberry_jam_sandwich" : "Strawberry Jam Sandwich",
+  "item.survivalhistory.sweetberry_jam" : "Sweetberry Jam",
+  "item.survivalhistory.sweetberry_jam_sandwich" : "Sweetberry Jam Sandwich",
+
+  "block.survivalhistory.limestone" : "Limestone",
+  "block.survivalhistory.marble" : "Marble",
+  "block.survivalhistory.polished_marble" : "Polished Marble",
+  "block.survivalhistory.industrial_concrete" : "Industrial Concrete",
+
+  "block.moremachines.strawberry_bush": "Strawberry Bush",
 
   "itemGroup.survivalhistorytab": "Survival History"
 }

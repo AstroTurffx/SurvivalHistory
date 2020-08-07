@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "survivalhistory:items/sweetberry_jam"
+  }
+}

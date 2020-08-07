@@ -1,8 +1,11 @@
 package com.astroturffx.survivalhistory;
 
+import com.astroturffx.survivalhistory.init.ModBlocks;
 import com.astroturffx.survivalhistory.init.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
@@ -33,13 +36,16 @@ public class SurvivalHistory
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::doClientStuff);
 
         ModItems.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        ModBlocks.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
 
         MinecraftForge.EVENT_BUS.register(this);
     }
 
     private void setup(final FMLCommonSetupEvent event) { }
 
-    private void doClientStuff(final FMLClientSetupEvent event) { }
+    private void doClientStuff(final FMLClientSetupEvent event) {
+        RenderTypeLookup.setRenderLayer(ModBlocks.STRAWBERRY_BUSH.get(), RenderType.getCutout());
+    }
 
     public static final ItemGroup TAB = new ItemGroup("survivalhistorytab") {
         @Override

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survivalhistory:jar"
+    },
+    {
+      "item": "survivalhistory:strawberry"
+    },
+    {
+      "item": "survivalhistory:strawberry"
+    },
+    {
+      "item": "survivalhistory:strawberry"
+    }
+  ],
+  "result": {
+    "item": "survivalhistory:strawberry_jam"
+  }
+}

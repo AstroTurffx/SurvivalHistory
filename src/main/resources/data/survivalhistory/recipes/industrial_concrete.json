@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx",
+        "xx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "survivalhistory:limestone"
+        }
+    },
+    "result":
+    {
+        "item": "survivalhistory:industrial_concrete",
+        "count": 4
+    }
+}
