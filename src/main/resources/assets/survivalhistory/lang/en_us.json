@@ -8,12 +8,18 @@
   "item.survivalhistory.sweetberry_jam" : "Sweetberry Jam",
   "item.survivalhistory.sweetberry_jam_sandwich" : "Sweetberry Jam Sandwich",
 
+  "item.survivalhistory.copper_sword": "Copper Sword",
+  "item.survivalhistory.copper_pickaxe": "Copper Pickaxe",
+  "item.survivalhistory.copper_shovel": "Copper Shovel",
+  "item.survivalhistory.copper_axe": "Copper Axe",
+  "item.survivalhistory.copper_hoe": "Copper Hoe",
+
   "block.survivalhistory.limestone" : "Limestone",
   "block.survivalhistory.marble" : "Marble",
   "block.survivalhistory.polished_marble" : "Polished Marble",
   "block.survivalhistory.industrial_concrete" : "Industrial Concrete",
 
-  "block.moremachines.strawberry_bush": "Strawberry Bush",
+  "block.survivalhistory.strawberry_bush": "Strawberry Bush",
 
   "itemGroup.survivalhistorytab": "Survival History"
 }
