@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "survivalhistory:block/rubber_log" },
+    "axis=z":   { "model": "survivalhistory:block/rubber_log", "x": 90 },
+    "axis=x":   { "model": "survivalhistory:block/rubber_log", "x": 90, "y": 90 }
+  }
+}

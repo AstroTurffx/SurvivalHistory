@@ -45,6 +45,10 @@ public class SurvivalHistory
 
     private void doClientStuff(final FMLClientSetupEvent event) {
         RenderTypeLookup.setRenderLayer(ModBlocks.STRAWBERRY_BUSH.get(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(ModBlocks.REINFORCED_DOOR.get(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(ModBlocks.MARBLE_PILLAR.get(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(ModBlocks.MARBLE_PILLAR_TOP.get(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(ModBlocks.MARBLE_PILLAR_BOTTOM.get(), RenderType.getCutout());
     }
 
     public static final ItemGroup TAB = new ItemGroup("survivalhistorytab") {

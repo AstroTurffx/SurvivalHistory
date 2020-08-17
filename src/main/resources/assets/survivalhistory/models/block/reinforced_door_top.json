@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "survivalhistory:blocks/reinforced_door_bottom",
+    "top": "survivalhistory:blocks/reinforced_door_top"
+  }
+}

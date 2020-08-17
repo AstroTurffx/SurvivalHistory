@@ -8,9 +8,7 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterial implements IItemTier {
 
-    COPPER(2, 835, 5.0f, 3.0f, 12, () -> {
-        return Ingredient.fromItems(ModItems.COPPER_INGOT.get());
-    });
+    ;
 
     private final int harvestLevel;
     private final int maxUses;

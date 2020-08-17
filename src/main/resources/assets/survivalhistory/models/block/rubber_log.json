@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "survivalhistory:blocks/rubber_log_top",
+    "side": "survivalhistory:blocks/rubber_log"
+  }
+}

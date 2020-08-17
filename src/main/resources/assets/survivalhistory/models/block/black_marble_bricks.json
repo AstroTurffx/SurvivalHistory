@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "survivalhistory:blocks/black_marble_bricks"
+  }
+}

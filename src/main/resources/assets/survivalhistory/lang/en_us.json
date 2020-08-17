@@ -8,18 +8,27 @@
   "item.survivalhistory.sweetberry_jam" : "Sweetberry Jam",
   "item.survivalhistory.sweetberry_jam_sandwich" : "Sweetberry Jam Sandwich",
 
-  "item.survivalhistory.copper_sword": "Copper Sword",
-  "item.survivalhistory.copper_pickaxe": "Copper Pickaxe",
-  "item.survivalhistory.copper_shovel": "Copper Shovel",
-  "item.survivalhistory.copper_axe": "Copper Axe",
-  "item.survivalhistory.copper_hoe": "Copper Hoe",
+  "block.survivalhistory.marble" : "Marble",
+  "block.survivalhistory.marble_engraved" : "Marble Engraved",
+  "block.survivalhistory.marble_runed" : "Marble Runed",
+  "block.survivalhistory.marble_bricks" : "Marble Bricks",
+  "block.survivalhistory.marble_pillar" : "Marble Pillar",
+  "block.survivalhistory.marble_pillar_top" : "Marble Pillar Top",
+  "block.survivalhistory.marble_pillar_bottom" : "Marble Pillar Bottom",
+  "block.survivalhistory.black_marble" : "Black Marble",
+  "block.survivalhistory.black_marble_engraved" : "Black Marble Engraved",
+  "block.survivalhistory.black_marble_runed" : "Black Marble Runed",
+  "block.survivalhistory.black_marble_bricks" : "Black Marble Bricks",
+  "block.survivalhistory.black_marble_pillar" : "Black Marble Pillar",
+  "block.survivalhistory.black_marble_pillar_top" : "Black Marble Pillar Top",
+  "block.survivalhistory.black_marble_pillar_bottom" : "Black Marble Pillar Bottom",
 
   "block.survivalhistory.limestone" : "Limestone",
-  "block.survivalhistory.marble" : "Marble",
-  "block.survivalhistory.polished_marble" : "Polished Marble",
   "block.survivalhistory.industrial_concrete" : "Industrial Concrete",
+  "block.survivalhistory.reinforced_door" : "Reinforced Door",
 
-  "block.survivalhistory.strawberry_bush": "Strawberry Bush",
+  "block.survivalhistory.rubber_log": "Rubber Log",
+  "block.survivalhistory.rubber_plank": "Rubber Plank",
 
   "itemGroup.survivalhistorytab": "Survival History"
 }

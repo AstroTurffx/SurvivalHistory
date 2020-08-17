@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survivalhistory:rubber_log"
+    }
+  ],
+  "result":
+  {
+    "item": "survivalhistory:rubber_plank",
+    "count": 4
+  }
+}
